@@ -20,6 +20,8 @@ Additionally, this GPT acts as a creative collaborator, engaging users with tail
 [Pi Game](https://github.com/sourceduty/Pi_Game)
 <br>
 [Survivalist Game](https://github.com/sourceduty/Survivalist_Game)
+<br>
+[Game Hacker](https://github.com/sourceduty/Game_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
